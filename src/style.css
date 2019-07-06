@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC");
+.logo {
+    
+    background-image:url("images/stock coffee.jpg");
+   
+  }
+  .title
+  {
+    position: absolute;
+    color:white;
+    font-size:50px;
+    font-family: "Amatic SC", sans-serif;
+    margin-left:30%;
+    margin-top:10%
+  }
+  .sub-title
+  {
+    position: absolute;
+    color:white;
+    font-size:50px;
+    font-family: "Amatic SC", sans-serif;
+    margin-left:30%;
+    margin-top:23%
+    
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    font-family:  "Amatic SC", sans-serif;
+    font-size:30px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+ 
